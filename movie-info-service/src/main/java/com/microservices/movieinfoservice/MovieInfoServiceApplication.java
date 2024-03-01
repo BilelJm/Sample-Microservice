@@ -3,6 +3,7 @@ package com.microservices.movieinfoservice;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+
 @SpringBootApplication
 public class MovieInfoServiceApplication {
 
